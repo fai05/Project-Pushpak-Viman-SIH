@@ -2,7 +2,8 @@
  
 **Pushpak Viman** is an initiative focused on autonomous rescue missions using aerial vehicles. A core part of this system involves using computer vision to detect and classify features from aerial and land imagery, helping in navigation and victim detection tasks.
 
-![WhatsApp Image 2024-09-30 at 12 50 51_89777784](https://github.com/user-attachments/assets/05abb4bc-e08b-40fa-9d03-33572dc93349)
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/9ff94a8b-69d4-4cd5-9dc3-b20f1f356f1f)
+
 
 
  
