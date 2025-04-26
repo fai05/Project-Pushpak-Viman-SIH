@@ -8,25 +8,6 @@ In this repository, we leverage the YOLOv5 object detection framework and a sate
  
 ---
  
-## 📂 Repository Structure
- 
-- `classify/` - Classification modules.
-- `data/` - Dataset YAML and configuration files.
-- `models/` - YOLOv5 model architectures.
-- `runs/` - Outputs of training and inference.
-- `segment/` - Segmentation-related code.
-- `utils/` - Utility functions.
-- Core scripts:
-  - `detect.py` - Run detection.
-  - `train.py` - Train the model.
-  - `val.py` - Validate the model.
-  - `export.py` - Export trained models.
-- `tutorial.ipynb` - A tutorial notebook for getting started.
-- `my_dataset.yaml` - Dataset configuration.
-- `yolov5s.pt` - Pre-trained YOLOv5 small model weights.
- 
----
- 
 ## 📈 Dataset Details
  
 - **Source**: MDPI Remote Sensing
@@ -85,16 +66,8 @@ python val.py --weights runs/train/pushpakviman/weights/best.pt --data data/my_d
 ---
  
 ## 📈 Results
- 
-Training metrics, validation results, and sample detections will be available inside the `runs/` directory.
- 
-Key Metrics:
-- Precision
-- Recall
-- mAP@0.5
-- mAP@0.5:0.95
- 
-Sample detections will be saved with bounding boxes drawn on images.
+
+ ![output2](https://github.com/user-attachments/assets/e6af8c5d-fc5f-43e9-a29b-567c3cbbaa2b)
  
 ---
  
